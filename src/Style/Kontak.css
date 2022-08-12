@@ -1,0 +1,12 @@
+#kontak_bg {
+    background-image : url("https://blog.elevenia.co.id/wp-content/uploads/2019/05/205-bromo.jpg");
+    height: 730px;
+}
+
+.kontak {
+    color: black;
+    text-align: center;
+    margin-top: 208px;
+    background-color: white;
+
+}
